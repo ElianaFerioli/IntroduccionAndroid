@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EvalucionAndroid</string>
+    <string name="title_activity_ctividad_dos">ActividadDos</string>
+    <string name="textoInformacion" translatable="false">Introduzca Número:</string>
+    <string name="botonCalcular" translatable="false">Calcular</string>
+    <string name="botonLlamar" translatable="false">Llamar</string>
+    <string name="informacionEntrada" hint="Mayor que 1"></string>
+    <string name="textoInfoDato" translatable="false">Los divisores de: </string>
+    <string name="textoDatoActividad1">dato ActividadUno </string>
+    <string name="textoInfoDivisores" translatable="false">Son: </string>
+    <string name="textoDivisores" translatable="false">Solución </string>
+    <string name="botonVolver" translatable="false">Volver</string>
+</resources>

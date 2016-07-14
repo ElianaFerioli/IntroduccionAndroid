@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EvalucionAndroid</string>
+    <string name="botonCalcular" translatable="false">Calculate</string>
+    <string name="botonLlamar" translatable="false">Call</string>
+    <string name="botonVolver" translatable="false">Back</string>
+    <string name="textoDatoActividad1" translatable="false"></string>
+    <string name="textoDivisores" translatable="false">Solution</string>
+    <string name="textoInfoDato" translatable="false">Dividers of:</string>
+    <string name="textoInfoDivisores" translatable="false">Are: </string>
+    <string name="textoInformacion" translatable="false">Put a Number: </string>
+</resources>
